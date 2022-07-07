@@ -1,0 +1,15 @@
+﻿  Button.cpp
+  Game.cpp
+  GraphicObject.cpp
+  GraphicObjectWithCollision.cpp
+  Invader.cpp
+  main.cpp
+  Menu.cpp
+  Player.cpp
+  Projectile.cpp
+  Shield.cpp
+  ShootingObject.cpp
+  Squadron.cpp
+C:\Users\Damia\OneDrive\Pulpit\Pliki\pendrive\VSrepos\ProjektPK3_Space_Invaders\ProjektPK3_Space_Invaders\Squadron.cpp(144,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  ProjektPK3_Space_Invaders.vcxproj -> C:\Users\Damia\OneDrive\Pulpit\Pliki\pendrive\VSrepos\ProjektPK3_Space_Invaders\Debug\ProjektPK3_Space_Invaders.exe
